@@ -1,0 +1,226 @@
+
+                            MODEL_VERSION           : 1 
+                            N_TIME_STEPS            : 90
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 26
+                            BATCH_SIZE              : 32
+                            STEP                    : 2
+                            Test Loss               : 0.01578260716714017
+                            Test Acc                : 0.99665367603302
+                            RUNTIME                 : 302.53045868873596
+                            SCORE                   : 99.2300976912964
+
+
+
+
+                      
+                            MODEL_VERSION           : 2 
+                            N_TIME_STEPS            : 90
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 26
+                            BATCH_SIZE              : 256
+                            STEP                    : 2
+                            Test Loss               : 0.00778454959856001
+                            Test Acc                : 0.9984750747680664
+                            RUNTIME                 : 182.58871603012085
+                            SCORE                   : 99.62842062397472
+
+
+
+
+                      
+                            MODEL_VERSION           : 6 
+                            N_TIME_STEPS            : 90
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 43
+                            BATCH_SIZE              : 256
+                            STEP                    : 2
+                            Test Loss               : 0.004712167231324739
+                            Test Acc                : 0.998559832572937
+                            RUNTIME                 : 303.3094000816345
+                            SCORE                   : 99.74146326414454
+
+
+
+
+                      
+                            MODEL_VERSION           : 7 
+                            N_TIME_STEPS            : 90
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 43
+                            BATCH_SIZE              : 512
+                            STEP                    : 2
+                            Test Loss               : 0.004477543943321575
+                            Test Acc                : 0.9985174536705017
+                            RUNTIME                 : 324.76602435112
+                            SCORE                   : 99.74692045056636
+
+
+
+
+                      
+                            MODEL_VERSION           : 10 
+                            N_TIME_STEPS            : 90
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 60
+                            BATCH_SIZE              : 256
+                            STEP                    : 2
+                            Test Loss               : 0.0030065593174825747
+                            Test Acc                : 0.9990257620811462
+                            RUNTIME                 : 399.77052998542786
+                            SCORE                   : 99.83144495916261
+
+
+
+
+                      
+                            MODEL_VERSION           : 11 
+                            N_TIME_STEPS            : 90
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 60
+                            BATCH_SIZE              : 512
+                            STEP                    : 2
+                            Test Loss               : 0.003355415582037166
+                            Test Acc                : 0.9992799162864685
+                            RUNTIME                 : 405.13650488853455
+                            SCORE                   : 99.83575501324916
+
+
+
+
+                      
+                            MODEL_VERSION           : 30 
+                            N_TIME_STEPS            : 90
+                            N_HIDDEN_UNITS          : 128
+                            N_EPOCHS                : 43
+                            BATCH_SIZE              : 256
+                            STEP                    : 2
+                            Test Loss               : 0.002944987967284398
+                            Test Acc                : 0.9992375373840332
+                            RUNTIME                 : 1706.0311408042908
+                            SCORE                   : 99.84736535110721
+
+
+
+
+                      
+                            MODEL_VERSION           : 34 
+                            N_TIME_STEPS            : 90
+                            N_HIDDEN_UNITS          : 128
+                            N_EPOCHS                : 60
+                            BATCH_SIZE              : 256
+                            STEP                    : 2
+                            Test Loss               : 0.0026832239906431376
+                            Test Acc                : 0.9993646144866943
+                            RUNTIME                 : 2369.2215909957886
+                            SCORE                   : 99.86478710196262
+
+
+
+
+                      
+                            MODEL_VERSION           : 47 
+                            N_TIME_STEPS            : 120
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 60
+                            BATCH_SIZE              : 512
+                            STEP                    : 2
+                            Test Loss               : 0.001995373367313737
+                            Test Acc                : 0.9994492530822754
+                            RUNTIME                 : 624.0467140674591
+                            SCORE                   : 99.89436338249192
+
+
+
+
+                      
+                            MODEL_VERSION           : 60 
+                            N_TIME_STEPS            : 120
+                            N_HIDDEN_UNITS          : 64
+                            N_EPOCHS                : 60
+                            BATCH_SIZE              : 1024
+                            STEP                    : 2
+                            Test Loss               : 0.001811805146480526
+                            Test Acc                : 0.9995763301849365
+                            RUNTIME                 : 1130.5610370635986
+                            SCORE                   : 99.90904828189406
+
+
+
+
+                      
+                            MODEL_VERSION           : 79 
+                            N_TIME_STEPS            : 150
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 43
+                            BATCH_SIZE              : 512
+                            STEP                    : 2
+                            Test Loss               : 0.0018930157287850179
+                            Test Acc                : 0.9996610283851624
+                            RUNTIME                 : 470.75362825393677
+                            SCORE                   : 99.91171129452809
+
+
+
+
+                      
+                            MODEL_VERSION           : 80 
+                            N_TIME_STEPS            : 150
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 43
+                            BATCH_SIZE              : 1024
+                            STEP                    : 2
+                            Test Loss               : 0.002021169189730792
+                            Test Acc                : 0.9997457265853882
+                            RUNTIME                 : 432.26068806648254
+                            SCORE                   : 99.91273130640965
+
+
+
+
+                      
+                            MODEL_VERSION           : 83 
+                            N_TIME_STEPS            : 150
+                            N_HIDDEN_UNITS          : 32
+                            N_EPOCHS                : 60
+                            BATCH_SIZE              : 512
+                            STEP                    : 2
+                            Test Loss               : 0.0018441132708708872
+                            Test Acc                : 0.9998304843902588
+                            RUNTIME                 : 660.630912065506
+                            SCORE                   : 99.92443752088634
+
+
+
+
+                      
+                            MODEL_VERSION           : 87 
+                            N_TIME_STEPS            : 150
+                            N_HIDDEN_UNITS          : 64
+                            N_EPOCHS                : 26
+                            BATCH_SIZE              : 512
+                            STEP                    : 2
+                            Test Loss               : 0.001123108462529038
+                            Test Acc                : 0.9997033476829529
+                            RUNTIME                 : 642.6450219154358
+                            SCORE                   : 99.94140880320342
+
+
+
+
+                      
+                            MODEL_VERSION           : 91 
+                            N_TIME_STEPS            : 150
+                            N_HIDDEN_UNITS          : 64
+                            N_EPOCHS                : 43
+                            BATCH_SIZE              : 512
+                            STEP                    : 2
+                            Test Loss               : 0.0010805797882609334
+                            Test Acc                : 0.9998304843902588
+                            RUNTIME                 : 1053.5061619281769
+                            SCORE                   : 99.95116119277769
+
+
+
+
+                      
